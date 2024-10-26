@@ -26,7 +26,7 @@ bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy 
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
+  - Media Trust
   - Fluid at interface
   - Computer simulations
 
