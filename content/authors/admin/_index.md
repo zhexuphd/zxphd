@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Zhe Xu
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Zhe
+last_name: Xu
 
 # Status emoji
 status:
